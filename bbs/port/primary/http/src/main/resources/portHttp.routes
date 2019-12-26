@@ -1,0 +1,3 @@
+GET / controllers.PostController.posts()
+#GET /:id controllers.PostController.postById(id:String)
+#POST / controllers.PostController.createPost()
